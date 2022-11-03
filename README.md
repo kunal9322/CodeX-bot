@@ -43,7 +43,7 @@
 * `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com).
 * `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). For more help watch this 
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
-* `SUPPORT_CHAT` : @CoDexBoTsupport
+* `SUPPORT_CHAT` : [@CoDexBoTsupport](https://t.me/CoDexBoTsupport) Join Support chat
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used seperated by space )
 ### Optional Variables
 
@@ -59,7 +59,7 @@ You can deploy this bot anywhere.
 </a>
 </p>
 
-<a href="https://youtu.be/kB9TkCs8cX0">
+<a href="https://t.me/codexyoutube">
   <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
 </a><br>
 
