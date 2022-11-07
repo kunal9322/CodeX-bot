@@ -747,13 +747,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('⚚ 𝙰𝙳𝙳 𝙼𝙴 𝙸𝙽 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 𝚄𝙿𝙳𝙰𝚃𝙴 💠', url='https://t.me/CoDexBoTupdate'),
+            InlineKeyboardButton('💠 𝚄𝙿𝙳𝙰𝚃𝙴 💠', url='https://t.me/justtypemoviename'),
             InlineKeyboardButton('💠 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 💠', url=' https://t.me/CoDexBoTsupport')
             ],[      
             InlineKeyboardButton('♻️ 𝙷𝙴𝙻𝙿 ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ 𝙰𝙱𝙾𝚄𝚃 ♻️', callback_data='about')
             ],[
-            InlineKeyboardButton('✅ 𝚄𝙿𝙳𝙰𝚃𝙴𝚂  ✅', url='https://t.me/CoDexBoTupdate')
+            InlineKeyboardButton('✅ 𝚄𝙿𝙳𝙰𝚃𝙴𝚂  ✅', url='https://t.me/justtypemoviename')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
